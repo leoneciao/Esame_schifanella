@@ -1,0 +1,31 @@
+
+[
+
+  {
+    "id": 1,
+    "title": "Notte Analogica",
+    "category": "musica",
+    "date": "2026-09-05",
+    "location": "Arena Comunale, Mondovì",
+    "description": "Serata di musica dal vivo con quattro band emergenti del territorio.",
+    "image": "Mondovi1-1280x630.jpeg"
+  },
+  {
+    "id": 2,
+    "title": "Voci Fuori Scena",
+    "category": "teatro",
+    "date": "2026-09-12",
+    "location": "Teatro Baretti, Torino",
+    "description": "Reading teatrale sul dialogo tra generazioni diverse.",
+    "image": "34e431d03e4c41789b78b413cb49705e-1.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Frequenze Libere",
+    "category": "podcast",
+    "date": "2026-09-19",
+    "location": "Ex Tribunale, Mondovì Piazza",
+    "description": "Registrazione live del podcast con ospiti a sorpresa.",
+    "image": "Immagine TRIBUNALE-0x1080.jpg"
+  }
+]
