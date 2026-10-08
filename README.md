@@ -2,7 +2,7 @@
 
 **Fuori Programma** è una Single Page Application dedicata alla scoperta, ricerca, pubblicazione e prenotazione di eventi locali.
 
-Il progetto è stato realizzato con **Vue 3 + Vite** e integra **Vue Router**, **Pinia**, **Axios**, **Bootstrap 5**, HTML5 e CSS3. L'obiettivo è mantenere il codice semplice da leggere e da spiegare, ma allo stesso tempo mostrare in modo concreto gli argomenti richiesti dal corso.
+Il progetto è realizzato con **Vue 3 + Vite** e integra **Vue Router**, **Pinia**, **Axios**, **Bootstrap 5**, HTML5 e CSS3. L'obiettivo è mantenere il codice semplice da leggere e da spiegare, ma allo stesso tempo mostrare in modo concreto gli argomenti richiesti dal corso.
 
 ## Cosa contiene
 
